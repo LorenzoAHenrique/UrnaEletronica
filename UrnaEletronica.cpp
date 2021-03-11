@@ -164,7 +164,7 @@ int main()
 							if (input == 4002)
 								printf("Saindo\n\n\n");
 							else
-								printf("Puxa! nao foi dessa vez,mas nao desista, tente novamente :(\n");
+								printf("Puxa! Não foi dessa vez, mas nao desista, tente novamente :(\n");
 						} while (input != 4002);
 					}
 					else
@@ -225,7 +225,7 @@ int main()
 	if ((PC2 > PC1) && (PC2 > PC3))
 		printf("Leonidas foi o vencedor com %.1f%% dos votos ", PC2);
 	if ((PC3 > PC1) && (PC3 > PC2))
-		printf("Optimus Prime foi o vencedor com %.1f%% dos votos", PC3);
+		printf("Optimus Prime foi o vencedor com %.1f%% dos votos!", PC3);
 
 	while (1)
 		if (kbhit())
