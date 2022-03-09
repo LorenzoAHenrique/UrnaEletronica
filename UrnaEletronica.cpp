@@ -164,7 +164,7 @@ int main()
 							if (input == 4002)
 								printf("Saindo\n\n\n");
 							else
-								printf("Puxa! Não foi dessa vez, mas nao desista, tente novamente :(\n");
+								printf("Seleção Inválida\n");
 						} while (input != 4002);
 					}
 					else
