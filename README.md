@@ -8,12 +8,12 @@ Criada uma Urna de votação eletrônica com senha de confirmação e de encerra
 
 Para iniciar a votação é necessário inserir a senha correta.
 
-Senha: :4: :0: :0: :2:
+Senha: :four: :zero: :zero: :two:
 
 Após inserir a senha, duas opções estarão disponíveis.
-:1: -Para votar.
-:2: -Para sair.
+:one: -Para votar.
+:two: -Para sair.
 
-### :exit: Ao sair
+### :door: Ao sair
 
 Ao sair o programa será reiniciado para a tela de senha.
