@@ -35,4 +35,4 @@ Ao confirmar pressionando o numero 1, haverá a escolha de votar novamente, ou e
 
 ### Encerrando a votação.
 
-
+Ao confirmar o encerramento da votação ao pressionar 2, o programa irá requerir a senha, :four::zero::zero::two:, Após a confirmação da senha, o programa apresentará os resultados da votação com porcentagens e apresentando o vencedor.
